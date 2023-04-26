@@ -1,5 +1,5 @@
 <p align = "center">
-<img src="https://i.postimg.cc/NfqfDkRb/001.png" width="100px" />
+<img src="https://i.postimg.cc/NfqfDkRb/001.png" width="270px" />
 <br><br>
 <img src="https://img.shields.io/github/languages/top/thysrael/ficus" />
 <img src="https://img.shields.io/github/downloads/thysrael/ficus/total" />
@@ -14,14 +14,12 @@
 
 <h1 align="center">Ficus</h1>
 
-README: [中文](./README-zh) | [English](./README.md)
+README: [中文](./README-zh.md) | [English](./README.md)
 
 $\tt{Ficus}$ is a software for editing and managing `markdown` documents, developed by the $\tt{gg=G}$ team.
 
 $\tt{Ficus}$ is named after the fig tree, which has the characteristics of "umbrella-like canopy, and one tree forming a forest". This is also the core service that this software wants to provide to users: to allow users' md documents to be browsed and edited like a fig tree, and to allow users' multiple md documents to be associated in various forms like a fig forest. We hope that users' experience is like the slogan of this software:
-$$
-Branch \space out \space your \space idea \space with \space \mathcal F \mathcal i \mathcal c \mathcal u \mathcal s.
-$$
+![slogan.png](https://i.postimg.cc/RVggP09M/slogan.png)
 $\tt{Ficus}$ is developed based on the `Vue3, Electron` framework and provides installation packages for Windows, macOS, and Linux systems.
 
 Detailed information can be obtained on the [ficus website](https://ficus.world/).
@@ -65,7 +63,7 @@ For specific contributions or ways to support us, refer to [here](https://ficus.
 
 ## Team
 
-<img src="https://i.postimg.cc/hvFgCKQh/Untitled.png" style="zoom: 30%;" />
+<img src="https://i.postimg.cc/hvFgCKQh/Untitled.png" width="450px" />
 
 $\tt{gg=G}$ is a software engineering team composed of 7 students from the Computer Science Department of Beihang University in 2020. This is our [team blog](https://blog.csdn.net/gg_equal_G).
 

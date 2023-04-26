@@ -1,5 +1,5 @@
 <p align = "center">
-<img src="https://i.postimg.cc/NfqfDkRb/001.png" style="zoom:40%;" />
+<img src="https://i.postimg.cc/NfqfDkRb/001.png" width="270px" />
 <br><br>
 <img src="https://img.shields.io/github/languages/top/thysrael/ficus" />
 <img src="https://img.shields.io/github/downloads/thysrael/ficus/total" />
@@ -11,6 +11,7 @@
 
 
 
+
 <h1 align="center">Ficus</h1>
 
 README: [汉语](./README-zh.md) | [English](./README.md)
@@ -18,9 +19,7 @@ README: [汉语](./README-zh.md) | [English](./README.md)
 $\tt{Ficus}$ 是一款 `markdown` 文档的编辑管理软件，由 $\tt{gg=G}$ 团队开发。
 
 $\tt{Ficus}$ 释义为“榕树”，榕树具有“冠盖如伞、一木成林“的特点。这也恰是本款软件想要为用户提供的核心服务：让用户的 md 文档可以像一棵榕树一样被浏览和编辑，同时让用户的多个 md 文档像榕树林一样进行多种形式的关联。我们希望用户的体验如这款软件的标语一样：
-$$
-Branch \space out \space your \space idea \space with \space \mathcal F \mathcal i \mathcal c \mathcal u \mathcal s.
-$$
+![slogan.png](https://i.postimg.cc/RVggP09M/slogan.png)
 $\tt{Ficus}$ 基于 `Vue3, Electron` 框架开发，提供 Windows、macOS 和 Linux 系统的安装包。
 
 详细信息可以在[ficus网站](https://ficus.world/)获得。
@@ -143,7 +142,7 @@ yarn electron:serve
   - 基础框架搭建
   - 热更新
   - 支持榕树功能，只支持榕图的展示功能，不支持榕图的编辑功能，完全不支持榕林功能
-  - 请不要随意用 ficus 打开重要文件，因为此版本存在一定风险清空用户的文件
+  - <font color="red">**请不要随意用 ficus 打开重要文件，因为此版本存在一定风险清空用户的文件**</font>
 
 
 
@@ -158,7 +157,7 @@ yarn electron:serve
 
 ## 团队
 
-<img src="https://i.postimg.cc/hvFgCKQh/Untitled.png" style="zoom: 30%;" />
+<img src="https://i.postimg.cc/hvFgCKQh/Untitled.png" width="450px" />
 
 gg=G 是由北京航空航天大学 2020 级计算机系 7 人组成的软件工程团队，这是我们的[团队博客](https://blog.csdn.net/gg_equal_G)。
 
