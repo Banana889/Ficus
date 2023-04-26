@@ -24,7 +24,7 @@ $\tt{Ficus}$ 释义为“榕树”，榕树具有“冠盖如伞、一木成林�
 
 $\tt{Ficus}$ 基于 `Vue3, Electron` 框架开发，提供 Windows、macOS 和 Linux 系统的安装包。
 
-详细信息可以在[ficus网站](https://ficus.world/)获得。
+详细信息可以在[ficus官网](https://ficus.world/)进一步了解。
 
 
 
