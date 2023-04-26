@@ -1,5 +1,5 @@
 <p align = "center">
-<img src="https://i.postimg.cc/NfqfDkRb/001.png" style="zoom:40%;" />
+<img src="https://i.postimg.cc/NfqfDkRb/001.png" width="100px" />
 <br><br>
 <img src="https://img.shields.io/github/languages/top/thysrael/ficus" />
 <img src="https://img.shields.io/github/downloads/thysrael/ficus/total" />
@@ -11,9 +11,10 @@
 
 
 
+
 <h1 align="center">Ficus</h1>
 
-README: [中文](./readme) | [English](./readme-en.md)
+README: [中文](./README-zh) | [English](./README.md)
 
 $\tt{Ficus}$ is a software for editing and managing `markdown` documents, developed by the $\tt{gg=G}$ team.
 
